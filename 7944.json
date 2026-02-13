@@ -1,0 +1,11 @@
+{
+
+"goproxy_arm.md5": "6f885b44bdcc5f41969cb72e449b4ba7",
+
+"goproxy_arm64.md5": "2f1d8f437fd842ce18c093629cef6ba4",
+
+"goproxy_arm": "https://github.com/VC125/VC/blob/main/goproxy_arm",
+
+"goproxy_arm64": "https://github.com/VC125/VC/blob/main/goproxy_arm64"
+
+}
